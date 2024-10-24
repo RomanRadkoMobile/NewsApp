@@ -2,6 +2,8 @@
 
 An Android News Application built using MVVM, Retrofit, Room, Hilt, Jetpack Compose, and Jetpack Navigation.
 
+![gif](https://github.com/user-attachments/assets/bc838519-ad27-4397-846d-e9a1d82a3d3a)
+
 ## Features ✨
 
 - 🗞️ Display a list of news articles from a remote API.
