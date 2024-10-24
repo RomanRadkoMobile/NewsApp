@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "me.getreach.myapplication"
+    namespace = "me.radko.practice"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "me.getreach.myapplication"
+        applicationId = "me.radko.practice"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
